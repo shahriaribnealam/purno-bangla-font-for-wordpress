@@ -9,6 +9,9 @@
 ### For more details about the Purno Bangla font, please visit the official website: <a href="https://bangla.gov.bd/purno">https://bangla.gov.bd/purno</a>
 পূর্ণ বাংলা ফন্ট সম্পর্কে আরও বিস্তারিত তথ্যের জন্য, অনুগ্রহ করে অফিসিয়াল ওয়েবসাইটটি ভিজিট করুণ: <a href="https://bangla.gov.bd/purno">https://bangla.gov.bd/purno</a>
 
+### About License
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see: https://www.gnu.org/licenses/.
+
 ### How to download and install this plugin
 * Download latest version of Purno Bangla font WordPress plugin from here: <a href="https://github.com/shahriaribnealam/purno-wordpress/releases">https://github.com/shahriaribnealam/purno-wordpress/releases</a>
 * Then login your WordPress website's Admin panel. Then go to "Plugins > Add New > Upload Plugin" and upload "purno-wordpress.zip" file.
