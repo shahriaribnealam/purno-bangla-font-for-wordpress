@@ -1,11 +1,14 @@
 <?php
 /*
-Plugin Name: Purno Bangla Font
-Plugin URI: https://github.com/shahriaribnealam/purno-wordpress/
-Description: Purno - A rich Bangla typeface developed by the BCC (Bangladesh Computer Council), ICT Division, is complete. With over five hundred glyphs, numerous ligatures - all in all, it is a complete solution for printing and publishing. I, Shahriar Ibne Alam, have created this plugin for WordPress based on the Purno Bangla font, so that WordPress website users can easily use the Purno Bangla font on their websites by installing this plugin.
-Version: 1.0
-Author: Shahriar Ibne Alam (SIA)
-Author URI: https://www.shahriaribnealam.com
+* Plugin Name: Purno Bangla Font
+* Plugin URI: https://github.com/shahriaribnealam/purno-wordpress/releases
+* Description: A rich Bangla typeface developed by the BCC (Bangladesh Computer Council), ICT Division, is complete. With over five hundred glyphs, numerous ligatures - all in all, it is a complete solution for printing and publishing. I, Shahriar Ibne Alam, have created this plugin for WordPress based on the Purno Bangla font, so that WordPress website users can easily use the Purno Bangla font on their websites by installing this plugin.
+* Author: Shahriar Ibne Alam (SIA)
+* Author URI: https://www.shahriaribnealam.com
+* Version: 1.0.0
+* License: GPL v3 or later
+* License URI: https://www.gnu.org/licenses/
+* Text Domain: purno-wordpress
 */
 
 /*
@@ -18,6 +21,4 @@ function sia_purno_font() {
 }
 
 add_action('wp_head', 'sia_purno_font');
-
 ?>
-
