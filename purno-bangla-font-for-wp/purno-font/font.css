@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'BCC Purno';
+	src: url('BCCPurno.woff2') format('woff2'),
+	url('BCCPurno.woff') format('woff'),
+	url('BCCPurno.ttf') format('truetype'),
+	url('BCCPurno.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
