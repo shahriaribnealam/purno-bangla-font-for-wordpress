@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'BCC Purno';
+	src: url('BCCPurno.woff2') format('woff2'),
+	url('BCCPurno.woff') format('woff'),
+	url('BCCPurno.ttf') format('truetype'),
+	url('BCCPurno.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body, p, h1, h2, h3, h4, h5, h6, article, textarea, input, select, .topbar, .main-menu, .breadcrumb, .copyrights-area, form span.required {
+	font-family: 'BCC Purno', sans-serif !important;
+	}
