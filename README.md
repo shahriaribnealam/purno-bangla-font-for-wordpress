@@ -8,3 +8,8 @@
 
 ### For more details about the Purno Bangla font, please visit the official website: <a href="https://bangla.gov.bd/purno">https://bangla.gov.bd/purno</a>
 পূর্ণ বাংলা ফন্ট সম্পর্কে আরও বিস্তারিত তথ্যের জন্য, অনুগ্রহ করে অফিসিয়াল ওয়েবসাইটটি ভিজিট করুণ: <a href="https://bangla.gov.bd/purno">https://bangla.gov.bd/purno</a>
+
+### How to download and install this plugin
+* Download latest version of Purno Bangla font WordPress plugin from here: <a href="https://github.com/shahriaribnealam/purno-wordpress/releases">https://github.com/shahriaribnealam/purno-wordpress/releases</a>
+* Then login your WordPress website's Admin panel. Then go to "Plugins > Add New > Upload Plugin" and upload "purno-wordpress.zip" file.
+* After finishing upload, click "Active Plugin" and enjoy Purno Bangla font.
