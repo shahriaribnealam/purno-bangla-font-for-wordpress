@@ -1,7 +1,7 @@
 # purno-bangla-font-for-wordpress
 
-### Purno is a rich Bengali typeface developed by the BCC (Bangladesh Computer Council) and ICT Division. With over five hundred glyphs and numerous ligatures, it is a complete solution for printing and publishing.
-পূর্ণ হলো বিসিসি (বাংলাদেশ কম্পিউটার কাউন্সিল) ও আইসিটি ডিভিশনের উদ্যোগে তৈরি একটি সমৃদ্ধ বাংলা টাইপফেস। পাঁচ শতাধিক গ্লিফ, অসংখ্য লিগ্যাচার - সব মিলিয়ে এটি মুদ্রণ ও প্রকাশনার জন্য এক সম্পূর্ণ সমাধান।
+### Purno is a rich Bengali typeface developed by the Bangladesh Computer Council (BCC) and ICT Division. With over five hundred glyphs and numerous ligatures, it is a complete solution for printing and publishing.
+পূর্ণ হলো বাংলাদেশ কম্পিউটার কাউন্সিল (বিসিসি) ও আইসিটি ডিভিশনের উদ্যোগে তৈরি একটি সমৃদ্ধ বাংলা টাইপফেস। পাঁচ শতাধিক গ্লিফ, অসংখ্য লিগ্যাচার - সব মিলিয়ে এটি মুদ্রণ ও প্রকাশনার জন্য এক সম্পূর্ণ সমাধান।
 
 ### Shahriar Ibne Alam has created this plugin for WordPress based on the Purno Bangla font, so that WordPress website users can easily use the Purno Bangla font on their websites by installing this plugin.
 শাহরিয়ার ইবনে আলম পূর্ণ বাংলা ফন্টের উপর ভিত্তি করে ওয়ার্ডপ্রেসের জন্য এই প্লাগিনটির তৈরি করেছেন, যাতে ওয়ার্ডপ্রেস ওয়েবসাইট ব্যবহারকারীরা এই প্লাগইনটি ইনস্টল করে খুব সহজই তাদের ওয়েবসাইটে পূর্ণ বাংলা ফন্ট ব্যবহার করতে পারে।
