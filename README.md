@@ -16,3 +16,4 @@ This program is free software: you can redistribute it and/or modify it under th
 * Download latest version of Purno Bangla font WordPress plugin from here: <a href="https://github.com/shahriaribnealam/purno-wordpress/releases">https://github.com/shahriaribnealam/purno-wordpress/releases</a>
 * Then login your WordPress website's Admin panel. Then go to "Plugins > Add New > Upload Plugin" and upload "purno-wordpress.zip" file.
 * After finishing upload, click "Active Plugin" and enjoy Purno Bangla font.
+* You can also download and install this plugin form WordPress plugins directory.
