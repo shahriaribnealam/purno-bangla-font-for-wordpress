@@ -1,6 +1,6 @@
 # purno-wordpress
 
-### Purno (পূর্ণ) - A rich Bangla typeface developed by the BCC (Bangladesh Computer Council), ICT Division, is complete. With over five hundred glyphs, numerous ligatures - all in all, it is a complete solution for printing and publishing.
+### Purno is a rich Bengali typeface developed by the BCC (Bangladesh Computer Council) and ICT Division with over five hundred glyphs and numerous ligatures, it is a complete solution for printing and publishing.
 পূর্ণ হলো বিসিসি (বাংলাদেশ কম্পিউটার কাউন্সিল), আইসিটি ডিভিশনের উদ্যোগে তৈরি একটি সমৃদ্ধ বাংলা টাইপফেস। পাঁচ শতাধিক গ্লিফ, অসংখ্য লিগ্যাচার - সব মিলিয়ে এটি মুদ্রণ ও প্রকাশনার জন্য এক সম্পূর্ণ সমাধান।
 
 ### Shahriar Ibne Alam has created this plugin for WordPress based on the Purno Bangla font, so that WordPress website users can easily use the Purno Bangla font on their websites by installing this plugin.
