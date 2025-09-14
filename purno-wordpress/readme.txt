@@ -6,8 +6,8 @@
 ### Shahriar Ibne Alam has created this plugin for WordPress based on the Purno Bangla font, so that WordPress website users can easily use the Purno Bangla font on their websites by installing this plugin.
 শাহরিয়ার ইবনে আলম, পূর্ণ বাংলা ফন্টের উপর ভিত্তি করে ওয়ার্ডপ্রেসের জন্য এই প্লাগিনটির তৈরি করেছেন, যাতে ওয়ার্ডপ্রেস ওয়েবসাইট ব্যবহারকারীরা এই প্লাগইনটি ইনস্টল করে খুব সহজই তাদের ওয়েবসাইটে পূর্ণ বাংলা ফন্ট ব্যবহার করতে পারে।
 
-### For more details about the Purno Bangla font, please visit the official website: <a href="https://bangla.gov.bd/purno">https://bangla.gov.bd/purno</a>
-পূর্ণ বাংলা ফন্ট সম্পর্কে আরও বিস্তারিত তথ্যের জন্য, অনুগ্রহ করে অফিসিয়াল ওয়েবসাইটটি ভিজিট করুণ: <a href="https://bangla.gov.bd/purno">https://bangla.gov.bd/purno</a>
+### For more details about the Purno Bangla font, please visit the official website: https://bangla.gov.bd/purno
+পূর্ণ বাংলা ফন্ট সম্পর্কে আরও বিস্তারিত তথ্যের জন্য, অনুগ্রহ করে অফিসিয়াল ওয়েবসাইটটি ভিজিট করুণ: https://bangla.gov.bd/purno
 
 ### About License
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see: https://www.gnu.org/licenses/.
